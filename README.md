@@ -1,0 +1,1 @@
+This project builds an Artificial Neural Network to classify breast cancer tumors as malignant or benign. Key steps include data preprocessing and scaling, hyperparameter tuning with Keras Tuner, model evaluation through various metrics, and K-Fold cross-validation to ensure reliable performance.
